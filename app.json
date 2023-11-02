@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "ReactNativeAssessment",
+    "slug": "ReactNativeAssessment",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./src/assets/logo/logo.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./src/assets/logo/logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./src/assets/logo/logo.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./src/assets/logo/logo.png"
+    }
+  }
+}
